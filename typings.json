@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "firebase": "registry:dt/firebase#2.4.1+20160412125105",
+    "material-ui": "registry:dt/material-ui#0.15.1+20161004183428",
+    "react-tap-event-plugin": "registry:dt/react-tap-event-plugin#0.0.0+20160602142434",
+    "whatwg-fetch": "registry:dt/whatwg-fetch#0.0.0+20161004182750"
+  }
+}
